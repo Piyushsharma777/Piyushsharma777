@@ -60,7 +60,7 @@
 <br>
 <hr>
 <div align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Piyushsharma777&hide=css,scss,html&theme=tokyonight" alt="Top Languages" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Piyushsharma777&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" alt="Top Languages" />
 
 </div>
 </br>
