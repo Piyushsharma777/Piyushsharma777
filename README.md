@@ -32,6 +32,7 @@
    <a href="https://twitter.com/" target="_blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/X_logo.jpg/900px-X_logo.jpg" width="100" alt="X Profile" />
 </a>
+    
 <a href="https://github.com/Piyushsharma777"><img style="float: right; margin-left: 10px; margin-top:10px" src="https://komarev.com/ghpvc/?username=Piyushsharma777&color=red&label=Profile%20views&style=for-the-badge" alt="Piyushsharma777" /></a>
 </p>
 
