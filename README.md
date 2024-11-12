@@ -1,16 +1,18 @@
 <img src="https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png" />
+
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Piyush+Sharma!;" />
 </h1>
+
 <!-- <div align="center">
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
   <br/>
 </div>
 <h3 align="center">A Curious Developer from India </h3> -->
-
 <br>
  <img align="right" alt="coding" width="500" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
+ 
 
 
 
@@ -19,7 +21,7 @@
 - 🌱 I’m currently **Building a Startup**.
 - 📫 Reach me at **connectwithpiyushsharma@gmail.com**
 - 🤔 Loves to talk about Tech and Philosophy;
-- 💼 Pursuing Bachelor's degree in Information Technology;
+- 💼 Completed Bachelor's degree in Computer Applications;
 - 💬 Loves to connect with people doing similar stuff;
 
 <h3 align="left">Connect with me:</h3>
@@ -30,6 +32,7 @@
    <a href="https://twitter.com/" target="_blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/X_logo.jpg/900px-X_logo.jpg" width="100" alt="X Profile" />
 </a>
+<a href="https://github.com/Piyushsharma777"><img style="float: right; margin-left: 10px; margin-top:10px" src="https://komarev.com/ghpvc/?username=Piyushsharma777&color=red&label=Profile%20views&style=for-the-badge" alt="Piyushsharma777" /></a>
 </p>
 
 
@@ -68,6 +71,3 @@
 <div align='center'>
     <img src="https://streak-stats.demolab.com?user=Piyushsharma777&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
 </div>
-
-
-
