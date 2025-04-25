@@ -18,22 +18,22 @@
 
 
 
-- 🌱 I’m currently **Building a Startup**.
-- 📫 Reach me at **connectwithpiyushsharma@gmail.com**
+<!--  🌱 I’m currently **Building a Startup**. -->
+- 📫 Reach me at **777piyushsharma@gmail.com**
 - 🤔 Loves to talk about Tech and Philosophy;
 - 💼 Completed Bachelor's degree in Computer Applications;
 - 💬 Loves to connect with people doing similar stuff;
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/piyush-sharma-b81852289" target="_blank">
+  <a href="https://www.linkedin.com/in/piyushsharma77" target="_blank">
     <img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100" alt="LinkedIn Profile" />
   </a>
    <a href="https://twitter.com/" target="_blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/X_logo.jpg/900px-X_logo.jpg" width="100" alt="X Profile" />
 </a>
     
-<a href="https://github.com/Piyushsharma777"><img style="float: right; margin-left: 10px; margin-top:10px" src="https://komarev.com/ghpvc/?username=Piyushsharma777&color=red&label=Profile%20views&style=for-the-badge" alt="Piyushsharma777" /></a>
+<!--  <a href="https://github.com/Piyushsharma777"><img style="float: right; margin-left: 10px; margin-top:10px" src="https://komarev.com/ghpvc/?username=Piyushsharma777&color=red&label=Profile%20views&style=for-the-badge" alt="Piyushsharma777" /></a> -->
 </p>
 
 
