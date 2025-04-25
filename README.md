@@ -69,6 +69,4 @@
 </div>
 </br>
 
-<div align='center'>
-    <img src="https://streak-stats.demolab.com?user=Piyushsharma777&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-</div>
+<div align='center'><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tapesh-1308&" alt="tapesh-1308" /></div>
