@@ -67,6 +67,3 @@
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Piyushsharma777&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" alt="Top Languages" />
 
 </div>
-</br>
-
-<div align='center'><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tapesh-1308&" alt="tapesh-1308" /></div>
