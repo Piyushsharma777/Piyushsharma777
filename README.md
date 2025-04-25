@@ -33,7 +33,7 @@
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/X_logo.jpg/900px-X_logo.jpg" width="100" alt="X Profile" />
 </a>
     
-<!--  <a href="https://github.com/Piyushsharma777"><img style="float: right; margin-left: 10px; margin-top:10px" src="https://komarev.com/ghpvc/?username=Piyushsharma777&color=red&label=Profile%20views&style=for-the-badge" alt="Piyushsharma777" /></a> -->
+<a href="https://github.com/Piyushsharma777"><img style="float: right; margin-left: 10px; margin-top:10px" src="https://komarev.com/ghpvc/?username=Piyushsharma777&color=red&label=Profile%20views&style=for-the-badge" alt="Piyushsharma777" /></a>
 </p>
 
 
@@ -61,9 +61,7 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/398b19b1-9aae-4c1f-8bc0-d172a2c08d68" width="100">
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/e0d299f2-767c-4c21-bd49-90f2a19f1a78" width="100"> -->
 </div>
-<br>
-<hr>
-<div align="center">
+<!-- <div align="center">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Piyushsharma777&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" alt="Top Languages" />
-
+-->
 </div>
